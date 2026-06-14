@@ -70,7 +70,7 @@ The repository is structured into two main tracks based on dimensionality: \*\*U
 
 ---
 
-\## Software \& Dependencies
+## Software & Dependencies
 
 
 
